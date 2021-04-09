@@ -1,7 +1,7 @@
 [![](https://i.imgur.com/UelUjKAh.png)](#)
 
 Table of Contents
-=======================
+======================= 
 
 * [What is openpilot?](#what-is-openpilot)
 * [Integration with Stock Features](#integration-with-stock-features)
